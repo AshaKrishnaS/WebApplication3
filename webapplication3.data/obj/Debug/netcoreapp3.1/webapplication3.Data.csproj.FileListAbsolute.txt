@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\WebApplication3\webapplication3.data\bin\Debug\netcoreapp3.1\webapplication3.Data.deps.json
+C:\Users\Admin\source\repos\WebApplication3\webapplication3.data\bin\Debug\netcoreapp3.1\webapplication3.Data.runtimeconfig.json
+C:\Users\Admin\source\repos\WebApplication3\webapplication3.data\bin\Debug\netcoreapp3.1\webapplication3.Data.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\WebApplication3\webapplication3.data\bin\Debug\netcoreapp3.1\webapplication3.Data.dll
+C:\Users\Admin\source\repos\WebApplication3\webapplication3.data\bin\Debug\netcoreapp3.1\webapplication3.Data.pdb
+C:\Users\Admin\source\repos\WebApplication3\webapplication3.data\bin\Debug\netcoreapp3.1\webapplication3.Core.dll
+C:\Users\Admin\source\repos\WebApplication3\webapplication3.data\bin\Debug\netcoreapp3.1\webapplication3.Core.pdb
+C:\Users\Admin\source\repos\WebApplication3\webapplication3.data\obj\Debug\netcoreapp3.1\webapplication3.Data.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WebApplication3\webapplication3.data\obj\Debug\netcoreapp3.1\webapplication3.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\WebApplication3\webapplication3.data\obj\Debug\netcoreapp3.1\webapplication3.Data.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WebApplication3\webapplication3.data\obj\Debug\netcoreapp3.1\webapplication3.Data.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WebApplication3\webapplication3.data\obj\Debug\netcoreapp3.1\webapplication3.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WebApplication3\webapplication3.data\obj\Debug\netcoreapp3.1\webapplication3.Data.csproj.CopyComplete
+C:\Users\Admin\source\repos\WebApplication3\webapplication3.data\obj\Debug\netcoreapp3.1\webapplication3.Data.dll
+C:\Users\Admin\source\repos\WebApplication3\webapplication3.data\obj\Debug\netcoreapp3.1\webapplication3.Data.pdb
+C:\Users\Admin\source\repos\WebApplication3\webapplication3.data\obj\Debug\netcoreapp3.1\webapplication3.Data.genruntimeconfig.cache

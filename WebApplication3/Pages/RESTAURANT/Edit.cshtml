@@ -1,0 +1,33 @@
+﻿@page "{restaurantId:int?}"
+@model WebApplication3.Pages.RESTAURANT.EditModel
+@{
+    ViewData["Title"] = "Edit";
+}
+<h2>Editing @Model.Restaurant.name</h2>
+
+<form method="post">
+
+    <input type="hidden" asp-for="Restaurant.id" />
+    <div class="form-group">
+        <label asp-for="Restaurant.name"></label>
+        <input asp-for="Restaurant.name" class="form-control" />
+        <span class="text-danger" asp-validation-for="Restaurant.name"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Restaurant.location"></label>
+        <input asp-for="Restaurant.location" class="form-control" />
+        <span class="text-danger" asp-validation-for="Restaurant.location"></span>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="Restaurant.Cuisine"></label>
+        <select class="form-control" asp-for="Restaurant.Cuisine" asp-items="Model.Cuisines">
+        </select>
+        <span class="text-danger" asp-validation-for="Restaurant.Cuisine"></span>
+
+    </div>
+    <button type="submit" class="btn btn-primary"> Save </button>
+</form>
+@section Scripts{
+                <partial name="_ValidationScriptsPartial" />
+            }
